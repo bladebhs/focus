@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Focus
+GenericName=Task List
+Comment=Daily planner with Pomodoro timer
+Categories=Utility;Office;ProjectManagement;
+Exec=com.github.bladebhs.focus
+Icon=com.github.bladebhs.focus
+Terminal=false
+Type=Application
+Keywords=Todo;Tasks;Pomodoro;
